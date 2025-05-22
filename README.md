@@ -30,9 +30,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cybwrex&label=Profile%20views&color=0e75b6&style=flat" alt="cybwrex" />
+  <img src="https://komarev.com/ghpvc/?username=cybwr-Rex&label=Profile%20views&color=0e75b6&style=flat" alt="cybwr-Rex" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybwrex&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybwr-Rex&show_icons=true&theme=radical" alt="stats" />
 </p>
