@@ -1,4 +1,4 @@
-# CybwrRex
+# Cybwr-Rex
 <h1 align="center">Hi there, I'm Shefin Shazz</h1>
 <h3 align="center">Grey Hat Hacker | Python Developer | BCA AI & ML Student</h3>
 
