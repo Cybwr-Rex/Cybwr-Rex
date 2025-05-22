@@ -3,7 +3,7 @@
 <h3 align="center">Grey Hat Hacker | Python Developer | BCA AI & ML Student</h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2013/10/04/19/09/bash-191382_960_720.png" alt="Classic Terminal" width="600"/>
+  <img src="https://ibb.co/zWNjTsBT" alt="Classic Terminal" width="600"/>
 </p>
 
 ---
